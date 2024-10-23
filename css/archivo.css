@@ -269,8 +269,6 @@ a:active {
 }
 
 .sobre-mi div h2 {
-    text-decoration-line: underline;
-    text-decoration-style: wavy;
     text-decoration-color: #000000;
     font-size: 24px;
     font-weight: bold;
